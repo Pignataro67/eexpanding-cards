@@ -35,6 +35,8 @@ body {
 
 .header input {
   background-color: rgba(0, 0, 0, 0.3);
+  border: 0;
+  border-radius: 50px;
 }
 
 .user-list li:not(:last-of-type) {
