@@ -37,6 +37,8 @@ body {
   background-color: rgba(0, 0, 0, 0.3);
   border: 0;
   border-radius: 50px;
+  color: #fff;
+  font-size: 14px;
 }
 
 .user-list li:not(:last-of-type) {
