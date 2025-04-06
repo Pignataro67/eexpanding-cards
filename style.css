@@ -33,6 +33,9 @@ body {
   -webkit-transition: all 700ms ease-in;
 }
 
+.header input {
+  background-color: rgba(0, 0, 0, 0.3);
+}
 
 .user-list li:not(:last-of-type) {
   border-bottom: 1px solid #eee;
