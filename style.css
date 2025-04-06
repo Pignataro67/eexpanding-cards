@@ -33,6 +33,11 @@ body {
   -webkit-transition: all 700ms ease-in;
 }
 
+
 .user-list li:not(:last-of-type) {
   border-bottom: 1px solid #eee;
+}
+
+.user-list li.hide {
+  display: none;
 }
