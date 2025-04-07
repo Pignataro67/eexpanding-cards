@@ -43,6 +43,10 @@ body {
   width: 100%;
 }
 
+.user-list img {
+  border-radius: 50%;
+}
+
 .user-list li:not(:last-of-type) {
   border-bottom: 1px solid #eee;
 }
