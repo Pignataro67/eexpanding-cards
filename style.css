@@ -45,6 +45,8 @@ body {
 
 .user-list img {
   border-radius: 50%;
+  object-fit: cover;
+  height: 50px;
 }
 
 .user-list li:not(:last-of-type) {
